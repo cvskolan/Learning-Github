@@ -11,6 +11,7 @@
 		0B1FFC16281BD41700C17B75 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1FFC15281BD41700C17B75 /* ContentView.swift */; };
 		0B1FFC18281BD41800C17B75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B1FFC17281BD41800C17B75 /* Assets.xcassets */; };
 		0B1FFC1B281BD41800C17B75 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B1FFC1A281BD41800C17B75 /* Preview Assets.xcassets */; };
+		0B1FFC22282145E400C17B75 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1FFC21282145E400C17B75 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0B1FFC15281BD41700C17B75 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0B1FFC17281BD41800C17B75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B1FFC1A281BD41800C17B75 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0B1FFC21282145E400C17B75 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0B1FFC13281BD41700C17B75 /* Larning_GithubApp.swift */,
 				0B1FFC15281BD41700C17B75 /* ContentView.swift */,
+				0B1FFC21282145E400C17B75 /* Model.swift */,
 				0B1FFC17281BD41800C17B75 /* Assets.xcassets */,
 				0B1FFC19281BD41800C17B75 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B1FFC22282145E400C17B75 /* Model.swift in Sources */,
 				0B1FFC16281BD41700C17B75 /* ContentView.swift in Sources */,
 				0B1FFC14281BD41700C17B75 /* Larning_GithubApp.swift in Sources */,
 			);
